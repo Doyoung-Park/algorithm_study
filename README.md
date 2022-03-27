@@ -38,5 +38,5 @@
 | 주차  | 폴더명 | 문제                                                         | 진행 현황   |
 | ----- | ------ | ------------------------------------------------------------ | ----------- |
 | 1주차 | greedy | [거스름돈](https://www.acmicpc.net/problem/5585)<br />[뒤집기 2](https://www.acmicpc.net/problem/1455)<br />[ZOAC 2](https://www.acmicpc.net/problem/18238)<br />[세상의 중심에서](https://www.acmicpc.net/problem/2389)<br />[전자레인지](https://www.acmicpc.net/problem/10162)<br />[5와 6의 차이](https://www.acmicpc.net/problem/2864) | `진행 완료` |
-| 2주차 | BFS    | 3/28 [촌수계산](https://www.acmicpc.net/problem/2644)<br />3/29 [미로탐색](https://www.acmicpc.net/problem/2178)<br />3.30 [전쟁-전투](https://www.acmicpc.net/problem/1303)<br />3.31 [숨바꼭질](https://www.acmicpc.net/problem/1697) | `진행중`    |
+| 2주차 | BFS    | 3/28 [촌수계산](https://www.acmicpc.net/problem/2644)<br />3/29 [미로탐색](https://www.acmicpc.net/problem/2178)<br />3/30 [전쟁-전투](https://www.acmicpc.net/problem/1303)<br />3/31 [숨바꼭질](https://www.acmicpc.net/problem/1697) | `진행중`    |
 
