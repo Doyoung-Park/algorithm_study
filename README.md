@@ -44,4 +44,5 @@
 | 5주차 | DP              | [제곱수의 합](https://www.acmicpc.net/problem/1699)<br /> [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 완료` |
 | 6주차 | DP, 그래프 이론 | [계단 오르기](https://www.acmicpc.net/problem/2579)<br />[포도주 시식](https://www.acmicpc.net/problem/2156)<br />[상근이의 여행](https://www.acmicpc.net/problem/9372)<br />[연구소](https://www.acmicpc.net/problem/14502) | `진행중`    |
 | 7주차 | 그래프 이론     | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)<br />[A→B](https://www.acmicpc.net/problem/16953)<br />[눌러서 잠금 해제](https://www.acmicpc.net/problem/2723) | `진행중`    |
+| 8주차 | 문자열          | [베스트셀러](https://www.acmicpc.net/problem/1302)<br />[공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br />[접미사 배열](https://www.acmicpc.net/problem/11656)<br />[소트인사이드](https://www.acmicpc.net/problem/1427) |             |
 
