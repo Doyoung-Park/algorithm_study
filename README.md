@@ -42,7 +42,8 @@
 | 3주차 | DFS             | 4/4 [영역구하기](https://www.acmicpc.net/problem/2583)<br />4/5 [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)<br />4/6 [유기농 배추](https://www.acmicpc.net/problem/1012)<br />4/7 [DFS와 BFS](https://www.acmicpc.net/problem/1260) | `진행 완료` |
 | 4주차 | DP              | 4/11 [정수 삼각형](https://www.acmicpc.net/problem/1932)<br />4/12 [RGB거리](https://www.acmicpc.net/problem/1149)<br />ㅠ | `진행 완료` |
 | 5주차 | DP              | [제곱수의 합](https://www.acmicpc.net/problem/1699)<br /> [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | `진행 완료` |
-| 6주차 | DP, 그래프 이론 | [계단 오르기](https://www.acmicpc.net/problem/2579)<br />[포도주 시식](https://www.acmicpc.net/problem/2156)<br />[상근이의 여행](https://www.acmicpc.net/problem/9372)<br />[연구소](https://www.acmicpc.net/problem/14502) | `진행중`    |
-| 7주차 | 그래프 이론     | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)<br />[A→B](https://www.acmicpc.net/problem/16953)<br />[눌러서 잠금 해제](https://www.acmicpc.net/problem/2723) | `진행중`    |
-| 8주차 | 문자열          | [베스트셀러](https://www.acmicpc.net/problem/1302)<br />[공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br />[접미사 배열](https://www.acmicpc.net/problem/11656)<br />[소트인사이드](https://www.acmicpc.net/problem/1427) |             |
+| 6주차 | DP, 그래프 이론 | [계단 오르기](https://www.acmicpc.net/problem/2579)<br />[포도주 시식](https://www.acmicpc.net/problem/2156)<br />[상근이의 여행](https://www.acmicpc.net/problem/9372)<br />[연구소](https://www.acmicpc.net/problem/14502) | `진행완료`  |
+| 7주차 | 그래프 이론     | [1,2,3 더하기](https://www.acmicpc.net/problem/9095)<br />[A→B](https://www.acmicpc.net/problem/16953)<br />[눌러서 잠금 해제](https://www.acmicpc.net/problem/2723) | `진행완료`  |
+| 8주차 | 문자열          | [베스트셀러](https://www.acmicpc.net/problem/1302)<br />[공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br />[접미사 배열](https://www.acmicpc.net/problem/11656)<br />[소트인사이드](https://www.acmicpc.net/problem/1427) | `진행완료`  |
+| 9주차 | 문자열 & 그리디 | [그리디]<br />[보석 도둑](https://www.acmicpc.net/problem/1202)<br />[덩치](https://www.acmicpc.net/problem/7568)<br />[문자열]<br />[A와 B](https://www.acmicpc.net/problem/12904)<br />[LCS 3](https://www.acmicpc.net/problem/1958) | `진행중`    |
 
