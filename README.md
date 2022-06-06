@@ -47,4 +47,5 @@
 | 8주차  | 문자열          | [베스트셀러](https://www.acmicpc.net/problem/1302)<br />[공통 부분 문자열](https://www.acmicpc.net/problem/5582)<br />[접미사 배열](https://www.acmicpc.net/problem/11656)<br />[소트인사이드](https://www.acmicpc.net/problem/1427) | `진행완료`  |
 | 9주차  | 문자열 & 그리디 | [그리디]<br />[보석 도둑](https://www.acmicpc.net/problem/1202)<br />[덩치](https://www.acmicpc.net/problem/7568)<br />[문자열]<br />[A와 B](https://www.acmicpc.net/problem/12904)<br />[LCS 3](https://www.acmicpc.net/problem/1958) | `진행중`    |
 | 10주차 | DFS             | [양](https://www.acmicpc.net/problem/3184)<br />[내리막 길](https://www.acmicpc.net/problem/1520)<br /><br />[한수](https://www.acmicpc.net/problem/1065)<br />[줄세우기](https://www.acmicpc.net/problem/2252) | `진행중`    |
+| 11주차 | BFS             | [N-Queen](https://www.acmicpc.net/problem/9663)<br />[테트로미노](https://www.acmicpc.net/problem/14500) | `진행중`    |
 
